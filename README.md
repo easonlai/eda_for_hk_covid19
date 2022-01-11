@@ -12,3 +12,8 @@ This is a code sample of Exploratory Data Analysis (EDA) for COVID-19 cases in H
 * [Latest situation of reported cases of COVID-19 in Hong Kong (English)](https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent/resource/cf686639-cf97-4403-ab03-f6b45f68a429)
 
 ![alt text](https://github.com/easonlai/eda_for_hk_covid19/blob/main/git-images/git-image-1.png)
+
+**Contents**
+* eda_for_hk_covid19_jan_2022.ipynb <-- Latest EDA in Jan 2022.
+* eda_for_hk_covid19_may_2021.ipynb <-- Previous EDA in May 2021.
+* .\data\ <-- Data sources obtained from data.gov.hk.
